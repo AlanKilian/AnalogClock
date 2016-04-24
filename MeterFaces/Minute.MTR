@@ -1,0 +1,47 @@
+Filename: C:\Users\kilian\Dropbox\Personal\Hobbies\Clock\Analog\Minute.MTR
+#2015-08-15 17:15:15#
+Plate width: 58.56
+Plate height: 58.56
+Bottom to bearing: 11.56
+Bottom to mounting holes: 18.3
+Hole separation: 29.46
+Pointer deflection: 90
+Dummy1: 1
+Dummy2: 2 
+Minor ticmark length: 2
+Minor ticmark width: 2
+Major ticmark length: 3
+Major ticmark width: 4
+Font size: 8
+Actual/virtual offset: 0
+Dummy3: 3
+Dummy4: 4
+Plate style: 0
+Draw arcs Y/N:Y
+Label rotation H/V/B:H
+Print text Y/N:Y
+Label spacing: 6
+Font style: Arial
+Number of scales: 1
+Scale color: 1
+Scale left end (units): 0
+Scale length (units): 60
+Bottom to title: 39.6
+Bottom to scale ceiling: 43.32
+Scale title:Minute
+Number of ticmarks: 12
+Major ticmarks every how often: 1
+Labels every how many ticmarks: 1
+Linearity exponent: 1
+Draw graphic Y/N:N
+Graphic filename: 
+Left to graphic: 1
+Bottom to graphic: 1
+Graphic width: 1
+Graphic height: 1
+Arc width: 1
+Messages: 0
+Texts: 0
+Highlights: 0
+Plate background: 16777215
+
